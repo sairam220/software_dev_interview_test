@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Library</OutputType>
+        <TargetFramework>net472</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="RhinoCommon">
+            <HintPath>C:\Program Files\Rhino 7\System\RhinoCommon.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+</Project>

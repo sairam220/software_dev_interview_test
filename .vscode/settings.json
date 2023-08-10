@@ -1,0 +1,9 @@
+{
+    "csharp.autoDetectTestFramework": false,
+    "omnisharp.path": "latest",
+    "omnisharp.useGlobalMono": "always",
+    "csharp.references.omnisharp": [
+        "System.Drawing",
+        "RhinoCommon"
+    ]
+}
